@@ -34,7 +34,7 @@ I believe Applied Mathematics and Physics as the core language of abstract, logi
 
 By no means and standards, I am a software engineer, a CAD specialist, a Marketing strategist, or a Product UI-UX designer. But, I do exhibit those traits when required. I needed it so I am invested in learning it everyday.
 
-I Co-Founded a startup *NanoKinetics Research Labs* (2016-2022) to collectively use engineering and existing technologies to create useful solutions in domains that affect our health and wellbeing (like curbing counterfeit food products, medicines, etc.). 
+I Co-Founded a startup *NanoKinetics Research Labs* (2016-2022) to collectively use engineering and existing technologies to create useful solutions in domains that affect our health and wellbeing (like curbing counterfeit food products, medicines, etc.). Otherwise, I would have finished by PhD in Nanophotonics (Physics).
 
 Working on the Startup, starting from nothing, taught me many things that I always yearned for while studying at University or working at Fraunhofer Institute.
 I had used programming for computational modeling and image analysis, but when I always believed research should empower creation of customer facing products and not only result in journal publications or dissertations and die within 4 walls.
