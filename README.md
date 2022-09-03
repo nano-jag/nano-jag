@@ -37,7 +37,7 @@ By no means and standards, I am a software engineer, a CAD specialist, a Marketi
 I Co-Founded a startup *NanoKinetics Research Labs* (2016-2022) to collectively use engineering and existing technologies to create useful solutions in domains that affect our health and wellbeing (like curbing counterfeit food products, medicines, etc.). Otherwise, I would have finished by PhD in Nanophotonics (Physics).
 
 Working on the Startup, starting from nothing, taught me many things that I always yearned for while studying at University or working at Fraunhofer Institute.
-I had used programming for computational modeling and image analysis, but when I always believed research should empower creation of customer facing products and not only result in journal publications or dissertations and die within 4 walls.
+I had used programming for computational modeling and image analysis, but I always believed research should empower creation of customer facing products and not only result in journal publications or dissertations and die within 4 walls.
 
 We needed custom tools for our work, and software to design and build products for customers, so I started devoting to learn software engineering. We were a small team of 3 engineers. It forced us to do everything that is needed. Today, after a few years in making I can take up an idea, dissect it to analyse for its feasibility and acceptance. Applying Design Thinking principles: Draw and outline a system design, an architecture and formulate specifications as per requirements before we do actual coding. 
 
