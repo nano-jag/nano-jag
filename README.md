@@ -43,7 +43,7 @@ I had used programming for computational modeling and image analysis, but I alwa
 
 We needed custom tools for our work, and software to design and build products for customers, so I started devoting to learn software engineering. We were a small team of 3 engineers. It forced us to do everything that is needed. Today, after a few years in making I can take up an idea, dissect it to analyse for its feasibility and acceptance. Applying Design Thinking principles: Draw and outline a system design, an architecture and formulate specifications as per requirements before we do actual coding. 
 
-I have worked on 3D-Modeling using CAD tool. Exported and optimize for 3D Printing for Prototype developments. 
+Ocassionaly, I work on 3D-Modeling using CAD tools. Export and optimize for 3D Printing for Prototype developments. 
 As part of the team, I have worked on standalone IoT solutions using RPIs and MCUs used in manufacturing and automation.
 
 By all means I am passionate about solving a meaningful problem and try to package idea into a product. Irrespective of the area of problem domain, I can delve right into the domain to glean the required knowledge.
@@ -56,6 +56,11 @@ Areas of Interest:
 
 *WIP*
 
+- 🔭 I’m currently working on CITTAM (Derived from sanskrit work "chitta" or "citta") 
+- 👯 I’m looking to collaborate on CITTAM
+- 🤔 I’m looking for help with Android App Development
+- 💬 Ask me about CITTAM tool
+- 📫 How to reach me: X:cittamHQ | Instagram: cittam108
 <!--
 **nano-jag/nano-jag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
