@@ -1,6 +1,6 @@
 ### Hi there 👋 (*WIP*)
 
-- 🔭 I’m currently working on CITTAM (Derived from sanskrit work "chitta" or "citta") 
+- 🔭 I’m currently working on CITTAM (Derived from sanskrit word "chitta" or "citta") 
 - 👯 I’m looking to collaborate on CITTAM
 - 🤔 I’m looking for help with Android App Development
 - 💬 Ask me about CITTAM tool
