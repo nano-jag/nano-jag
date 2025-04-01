@@ -1,5 +1,11 @@
 ### Hi there 👋 (*WIP*)
 
+- 🔭 I’m currently working on CITTAM (Derived from sanskrit work "chitta" or "citta") 
+- 👯 I’m looking to collaborate on CITTAM
+- 🤔 I’m looking for help with Android App Development
+- 💬 Ask me about CITTAM tool
+- 📫 How to reach me: X:cittamHQ | Instagram: cittam108
+
 Areas of Interest:
 - Holistic Healthcare Solutions
 - Healthcare Informatics
@@ -56,11 +62,7 @@ Areas of Interest:
 
 *WIP*
 
-- 🔭 I’m currently working on CITTAM (Derived from sanskrit work "chitta" or "citta") 
-- 👯 I’m looking to collaborate on CITTAM
-- 🤔 I’m looking for help with Android App Development
-- 💬 Ask me about CITTAM tool
-- 📫 How to reach me: X:cittamHQ | Instagram: cittam108
+
 <!--
 **nano-jag/nano-jag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
